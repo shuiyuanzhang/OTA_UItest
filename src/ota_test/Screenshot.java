@@ -4,6 +4,8 @@ import java.io.IOException;
 
 public class Screenshot {
 	public static void picture() {
+		
+		
 		try {
 			Runtime.getRuntime().exec("adb shell screencap -p /sdcard/screen"+System.currentTimeMillis()+".png");
 		} catch (IOException e) {
