@@ -145,14 +145,7 @@ public class TestSuit {
 			Screenshot.picture();
 		} catch (Exception e) {
 			// TODO: handle exception
-		}
-
-		
-
-		
-		
-		
-		
+		}	
 	}
 
 }

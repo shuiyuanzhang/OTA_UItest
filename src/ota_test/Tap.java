@@ -1,7 +1,6 @@
 package ota_test;
 
 import java.io.IOException;
-import java.util.IllegalFormatCodePointException;
 
 public class Tap {
 	public static void  key(int x,int y) {
